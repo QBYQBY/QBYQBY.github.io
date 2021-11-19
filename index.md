@@ -15,11 +15,6 @@
 - 电子邮件：1248978193@qq.com
 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **技能总结**
 
