@@ -6,6 +6,8 @@
 
 
 ```markdown
+
+
 - 姓名：钱碧莹
 - 性别：女
 - 出生年月：2002.5.5
@@ -22,10 +24,9 @@
 
 - 计算机二级：暂未参加
 
-[Link](url) and ![Image](src)
+
 ```
 
-(https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### 教育背景
 
@@ -36,4 +37,4 @@
 
 ### 获奖情况
 -全国大学生
-(https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we
+(https://support.github.com/contact)
