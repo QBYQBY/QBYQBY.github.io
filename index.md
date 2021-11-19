@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## 钱碧莹（2012010099）
 
-You can use the [editor on GitHub](https://github.com/QBYQBY/QBYQBY.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+姓名：钱碧莹
+性别：女
+出生年月：2002.5.5
+籍贯：四川
+专业：金融学
+政治面貌：共青团员
 
 ### Markdown
 
