@@ -22,7 +22,9 @@
 2. List
 
 **技能总结**
+
 - CET：504
+
 - 计算机二级：暂未参加
 
 [Link](url) and ![Image](src)
